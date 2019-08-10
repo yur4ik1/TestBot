@@ -2,4 +2,3 @@ bot.py
 aiohttp
 websockets
 chardet
-pip install pyTelegramBotAPI
